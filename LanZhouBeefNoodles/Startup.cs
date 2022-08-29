@@ -31,8 +31,13 @@ namespace LanZhouBeefNoodles
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapDefaultControllerRoute();//启用路由（Conventional routing）
-                endpoints.MapControllers();//启用路由（Attribute routing）
+                //endpoints.MapDefaultControllerRoute();//启用路由（Conventional routing）
+                //endpoints.MapControllers();//启用路由（Attribute routing）
+
+                endpoints.MapControllerRoute(
+                    name: "default",
+                    pattern: "{controller=home}/{action=index}/{id?}"
+                    );
 
                 //endpoints.MapGet("/a", async context =>
                 //{
