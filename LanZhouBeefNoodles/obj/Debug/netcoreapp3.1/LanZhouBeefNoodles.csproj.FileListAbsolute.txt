@@ -17,3 +17,14 @@ D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\obj\Debug\netcoreapp3.1\LanZhou
 D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\obj\Debug\netcoreapp3.1\LanZhouBeefNoodles.dll
 D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\obj\Debug\netcoreapp3.1\LanZhouBeefNoodles.pdb
 D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\obj\Debug\netcoreapp3.1\LanZhouBeefNoodles.genruntimeconfig.cache
+D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\bin\Debug\netcoreapp3.1\LanZhouBeefNoodles.Views.dll
+D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\bin\Debug\netcoreapp3.1\LanZhouBeefNoodles.Views.pdb
+D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\obj\Debug\netcoreapp3.1\LanZhouBeefNoodles.RazorAssemblyInfo.cache
+D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\obj\Debug\netcoreapp3.1\LanZhouBeefNoodles.RazorAssemblyInfo.cs
+D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\obj\Debug\netcoreapp3.1\LanZhouBeefNoodles.TagHelpers.input.cache
+D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\obj\Debug\netcoreapp3.1\LanZhouBeefNoodles.TagHelpers.output.cache
+D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\obj\Debug\netcoreapp3.1\LanZhouBeefNoodles.RazorCoreGenerate.cache
+D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\obj\Debug\netcoreapp3.1\Razor\Views\Test\contact.cshtml.g.cs
+D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\obj\Debug\netcoreapp3.1\LanZhouBeefNoodles.RazorTargetAssemblyInfo.cs
+D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\obj\Debug\netcoreapp3.1\LanZhouBeefNoodles.Views.pdb
+D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\obj\Debug\netcoreapp3.1\LanZhouBeefNoodles.csproj.CopyComplete

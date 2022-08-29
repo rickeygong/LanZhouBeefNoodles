@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace LanZhouBeefNoodles.controllers
 {
-    [Route("admin/[controller]/[action]")]
+    [Route("api/[controller]/[action]")]
     public class UserController : Controller
     {
         public IList<string> Index()
