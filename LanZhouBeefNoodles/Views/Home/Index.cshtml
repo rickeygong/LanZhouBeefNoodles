@@ -1,0 +1,24 @@
+﻿@*@model IEnumerable<LanZhouBeefNoodles.Models.Noodle>*@
+
+@model LanZhouBeefNoodles.ViewModels.HomeViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+@foreach (var noodle in Model.Noodles)
+{
+    <div>
+        <p>@noodle.Name</p>
+        <p>@noodle.Price</p>
+        <p>@noodle.ShortDescription</p>
+    </div>
+}
+@foreach (var feedback in Model.Feedbacks)
+{
+    <h2>@feedback.Name</h2>
+    <h3>@feedback.CreateDateUTC</h3>
+    <p>@feedback.Message</p>
+}

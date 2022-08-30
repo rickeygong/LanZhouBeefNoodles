@@ -1,3 +1,4 @@
+using LanZhouBeefNoodles.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -17,6 +18,15 @@ namespace LanZhouBeefNoodles
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();//注入内置的组件
+
+            //注入方法1：每次发起请求的时候都创建一个全新的实例
+            services.AddTransient<INoodleRepository, MockNoodleRepository>();
+            services.AddTransient<IFeedbackRepository, MockFeedbackRepository>();
+            //注入方法2：每次发起请求的时候有且仅创建一个实例
+            //services.AddSingleton<INoodleRepository, MockNoodleRepository>();
+
+            //注入方法3：
+            //services.AddScoped<INoodleRepository, MockNoodleRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
