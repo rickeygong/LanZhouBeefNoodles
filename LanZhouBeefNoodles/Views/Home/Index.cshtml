@@ -17,7 +17,12 @@
 {
     <div class="col-sm-4 col-lg-4 col-md-4">
         <div class="thumbnail">
-            <img src="@noodle.ImageUrl" alt="">
+            @*<img src="@noodle.ImageUrl" alt="">*@
+                                <a 
+                       asp-controller="Home" 
+                       asp-action="Detail" 
+                       asp-route-id="@noodle.Id"
+                    ><img src="@noodle.ImageUrl" alt=""></a>
             <div class="caption">
                 <h3 class="pull-right">￥@noodle.Price</h3>
                 <h3>
