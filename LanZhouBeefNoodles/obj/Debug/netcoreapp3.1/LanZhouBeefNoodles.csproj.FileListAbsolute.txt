@@ -144,3 +144,6 @@ D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\bin\Debug\netcoreapp3.1\runtime
 D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\bin\Debug\netcoreapp3.1\Humanizer.dll
 D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MyCodes\LanZhouBeefNoodles\LanZhouBeefNoodles\bin\Debug\netcoreapp3.1\libman.json
